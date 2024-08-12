@@ -9,7 +9,7 @@
 ✉️ &nbsp;You can shoot me an email at parthavchodvadiya24@gmail.com! I'll try to respond as soon as I can.\
 
 - 📫 You can reach me on 
-  - **Portfolio - [Parthav Chodvadiya](https://parthav24.github.io/)**
+  - **Portfolio - [Parthav Chodvadiya](https://parthavchodvadiya.netlify.app/)**
   - **Linkedin - [parthav-chodvadiya](https://www.linkedin.com/in/parthav-chodvadiya-506568254)**
 
 ### 🛠 &nbsp;Tech Stack
